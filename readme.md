@@ -31,7 +31,9 @@ A C++ tool for hiding secret messages within images using steganography, built u
     target_link_libraries( opencvv ${OpenCV_LIBS} )
     ```
 # Example
+```
 <video width="320" height="240" controls>
   <source src="https://github.com/Ash-2025/SteganographyCPP/blob/main/stego_demo.mkv" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+```
