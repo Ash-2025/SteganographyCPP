@@ -1,0 +1,3 @@
+/home/ash_25/coding/opencvv/build/CMakeFiles/opencvv.dir
+/home/ash_25/coding/opencvv/build/CMakeFiles/edit_cache.dir
+/home/ash_25/coding/opencvv/build/CMakeFiles/rebuild_cache.dir
