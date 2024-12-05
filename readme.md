@@ -31,4 +31,5 @@ A C++ tool for hiding secret messages within images using steganography, built u
     target_link_libraries( opencvv ${OpenCV_LIBS} )
     ```
 # Example
-https://github.com/Ash-2025/SteganographyCPP/blob/main/stego_demo.mkv
+
+https://github.com/user-attachments/assets/291786c9-86d4-4eff-a816-422f874148cd
